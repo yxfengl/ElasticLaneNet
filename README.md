@@ -9,8 +9,11 @@ The code is being sorted out and the repository will be updated gradually.
 https://drive.google.com/file/d/1P8EgP5IaocEgWpk0c9l2HUY28bw3txUC/view?usp=drive_link
 
 ## Data Preparation
-SDLane
-The data pre-processing code is being sorted. The sorted SDLane data can be found in the google drive link:
+1. SDLane
+The data pre-processing code is being sorted. The sorted SDLane data can be found in the google drive link (coming soon), which has the similar structure to CULane.
+
+2. CULane and TuSimple
+(coming soon)
 
 ## Running the code
 ```git clone https://github.com/yxfengl/ElasticLaneNet.git```
