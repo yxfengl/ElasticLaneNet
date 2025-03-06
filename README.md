@@ -1,5 +1,5 @@
 ## ElasticLaneNet: An Efficient Geometry-Flexible Lane Detection Framework
-The work has been accepted to WACV 2025. 
+The work has been early accepted to WACV 2025. 
 The code is being sorted out and the repository will be updated gradually.
 
 ## Poster
