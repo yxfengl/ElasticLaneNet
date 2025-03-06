@@ -10,9 +10,11 @@ The code is being sorted out and the repository will be updated gradually.
 
 ## Data Preparation
 1. SDLane
+
 The data pre-processing code is being sorted. The sorted SDLane data can be found in the google drive link (coming soon), which has the similar structure to CULane.
 
-2. CULane and TuSimple
+3. CULane and TuSimple
+
 (coming soon)
 
 ## Running the code
