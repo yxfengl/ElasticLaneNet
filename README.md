@@ -13,10 +13,7 @@ SDLane
 The data pre-processing code is being sorted. The sorted SDLane data can be found in the google drive link:
 
 ## Acknowledgement
-https://github.com/charrywhite/elastic_interaction_based_loss
-
-https://github.com/dongkwonjin/Eigenlanes
-
-https://github.com/Turoad/CLRNet
-
+https://github.com/charrywhite/elastic_interaction_based_loss \\
+https://github.com/dongkwonjin/Eigenlanes \\
+https://github.com/Turoad/CLRNet \\
 https://github.com/lucastabelini/LaneATT
