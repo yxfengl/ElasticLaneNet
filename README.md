@@ -11,7 +11,7 @@ The code is being sorted out and the repository will be updated gradually.
 ## Data Preparation
 1. SDLane
 
-The data pre-processing code is being sorted out. The SDLane data and labels are adjusted to the similar structure to CULane, which can be found in the [google drive link](https://drive.google.com/drive/folders/1LtuRg7_ogQdlCEHxgMrPn0IUE6M2FXx3?usp=drive_link).
+The labels of SDLane are adjusted to the similar structure to CULane, which can be found in the [google drive link](https://drive.google.com/drive/folders/1LtuRg7_ogQdlCEHxgMrPn0IUE6M2FXx3?usp=drive_link). The pre-processing codes of the labels are being sorted out. 
 
 2. CULane and TuSimple
 
