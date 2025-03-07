@@ -9,9 +9,13 @@ Here is the official implementation for "ElasticLaneNet: An Efficient Geometry-F
 The code is being sorted out and the repository will be updated gradually.
 
 ## Data Preparation
-1. SDLane - The data pre-processing code is being sorted. The sorted SDLane data can be found in the google drive [link](https://drive.google.com/drive/folders/1LtuRg7_ogQdlCEHxgMrPn0IUE6M2FXx3?usp=drive_link), which has the similar structure to CULane.
+1. SDLane
 
-3. CULane and TuSimple - same with many other works (will be described soon).
+The data pre-processing code is being sorted. The sorted SDLane data can be found in the google drive [link](https://drive.google.com/drive/folders/1LtuRg7_ogQdlCEHxgMrPn0IUE6M2FXx3?usp=drive_link), which has the similar structure to CULane.
+
+2. CULane and TuSimple
+
+Same with many other works (will be described soon).
 
 ## Running the code
 ```git clone https://github.com/yxfengl/ElasticLaneNet.git```
