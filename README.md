@@ -18,7 +18,20 @@ The labels of SDLane are adjusted to the similar structure to CULane, which can 
 Same with many other works (will be described soon).
 
 ## Running the code
-```git clone https://github.com/yxfengl/ElasticLaneNet.git```
+```
+git clone https://github.com/yxfengl/ElasticLaneNet.git
+```
+
+## Create a virtual environment
+```
+conda create -n elasticlanenet python=3.8 -y
+conda activate elasticlanenet
+```
+
+## Install the packages
+```
+pip install -r requirements.txt
+```
 
 ## Acknowledgement
 - https://github.com/charrywhite/elastic_interaction_based_loss
